@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.4.4\bin\i386-win32\fpc.exe" Date="1063561443"/>
+  <Params Value=" -MObjFPC -Scghi -CX -O1 -Twince -Parm -Xs -XX -WG -vewnhi -l -FiC:\Users\Admin\Desktop\DemissionCalculator\lib\arm-wince -FuC:\lazarus\lcl\units\arm-wince -FuC:\lazarus\lcl\units\arm-wince\wince -FuC:\lazarus\packager\units\arm-wince -FuC:\Users\Admin\Desktop\DemissionCalculator\ -Fu. -FUC:\Users\Admin\Desktop\DemissionCalculator\lib\arm-wince\ -oDemCalc.exe -dLCL -dLCLwince DemCalc.lpr"/>
+</CONFIG>

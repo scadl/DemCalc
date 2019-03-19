@@ -67,3 +67,17 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+[Realease]/win32-64_bin/Unit1(desktop).lfm
+[Realease]/macosx_bin/Архив.zip
+[Realease]/macosx_bin/DemCalc.app/Contents/PkgInfo
+[Realease]/macosx_bin/DemCalc.app/Contents/MacOS/DemCalc
+[Realease]/macosx_bin/DemCalc.app/Contents/Info.plist
+[Realease]/macosx_bin/DemCalc
+[Realease]/linux_bin/DemCalc_debbin.zip
+[Realease]/linux_bin/DemCalc
+[Realease]/DemissionCalculator[crossplatform].rar
+backup/Unit1.pas.bak
+backup/Unit1.lfm.bak
+backup/DemissionCalculator.rar
+backup/DemCalc.lpi.bak
+WinCE_Preview.JPG
